@@ -155,7 +155,11 @@ a:hover {
 .tm-portfolio-item {
   display: flex;
   align-items: center;
+  padding-right: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   margin-bottom: 80px;
+  margin-top: 80px;
 }
 
 .tm-portfolio-name {
